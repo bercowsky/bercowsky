@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on a Machine Learning project.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/andrés-eduardo-bercowsky-rama-) or [email](mailto:andresbercowsky@gmail.com).
-- ⚡ Fun fact: Becoming a Google <a href="https://www.google.com/" title="Google"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-2014.svg" alt="Google" width="21px" height="21px" text-align="bottom"></a> Software Engineer intern in Summer 2022!
+- ⚡ Fun fact: Becoming a Google <a href="https://www.google.com/" title="Google"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-2014.svg" alt="Google" width="26px" height="26px"></a> Software Engineer intern in Summer 2022!
 
 ## Languages and tools 🧑‍💻:
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
