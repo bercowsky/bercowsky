@@ -2,7 +2,7 @@
 # Andrés Eduardo Bercowsky Rama
 
 
-## I am a third year Computer Engineer student at the [Universitat Politècnica de Catalunya](https://www.upc.edu/) interested in ML/DL and algorithms.
+### I am a third year Computer Engineer student at the [Universitat Politècnica de Catalunya](https://www.upc.edu/) interested in ML/DL and algorithms.
 
 - 🔭 I’m currently working as a Software Engineer at [INLOC Robotics](https://inlocrobotics.com/es/inicio/) and a Software Engineer intern at [CHUV](https://www.chuv.ch/).
 - 🌱 I’m currently learning Machine Learning.
