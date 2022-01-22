@@ -2,7 +2,7 @@
 # Andrés Eduardo Bercowsky Rama
 
 
-## I am a Computer Engineer student at the [Universitat Politècnica de Catalunya](https://www.upc.edu/) interested in ML/DL and algorithms.
+## I am a third year Computer Engineer student at the [Universitat Politècnica de Catalunya](https://www.upc.edu/) interested in ML/DL and algorithms.
 
 - 🔭 I’m currently working as a Software Engineer at [INLOC Robotics](https://inlocrobotics.com/es/inicio/) and a Software Engineer intern at [CHUV](https://www.chuv.ch/).
 - 🌱 I’m currently learning Machine Learning.
@@ -19,4 +19,4 @@
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
-
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
