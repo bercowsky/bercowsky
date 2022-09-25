@@ -2,12 +2,12 @@
 # Andrés Eduardo Bercowsky Rama
 
 
-### I am a third year Computer Engineer student at the [Universitat Politècnica de Catalunya](https://www.upc.edu/) interested in ML/DL and algorithms.
+### I am a fourth year Computer Engineer student at the [Universitat Politècnica de Catalunya](https://www.upc.edu/) interested in ML/DL and algorithms.
 
 - 🔭 I’m currently working as a Software Engineer Intern at [Google](https://inlocrobotics.com/es/inicio/) and a Machine Learning Researcher at [UPC](https://www.fib.upc.edu/en).
 - 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on a Machine Learning project.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/andres-eduardo-bercowsky) or [email](mailto:andresbercowsky@gmail.com).
+- 👯 I’m looking to do research on Deep Learning.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/andrés-eduardo-bercowsky-rama-) or [email](mailto:andresbercowsky@gmail.com).
 - ⚡ Fun fact: Moving to Zurich to study at ETH!
 
 ## Languages and tools 🧑‍💻:
